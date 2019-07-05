@@ -1,1 +1,1 @@
-# KRX_herding
+# Dynamics of member firms in the Korea Exchange

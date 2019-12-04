@@ -1,8 +1,6 @@
 ### Herding and characteristics of member firms in the Korea Exchange
 <br>
 
-<br>
-
 Min-Young Lee [1], Woo-Sung Jung [1,2,3], Gabjin Oh [4,5]
 
 [1] Pohang University of Science and Technology, Department of Physics, Pohang, 37673, Republic of Korea<br>
